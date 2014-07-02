@@ -7,6 +7,8 @@
 
 .. code-block:: javascript
 
+  // Not currently supported by this SDK
+
 .. code-block:: php
 
     $groups = $service->groupList();
